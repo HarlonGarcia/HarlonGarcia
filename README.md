@@ -45,7 +45,6 @@
   <summary></summary>
   
 ```
-import java.util.Scanner;
 import entities.User;
 
 public class Main {
