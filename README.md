@@ -1,11 +1,9 @@
 <h1>Welcome to my profile 😌</h1>
 
-<div><br>
-  <a href="https://github.com/HarlonGarcia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HarlonGarcia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&&custom_title=My+stats"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&layout=compact&langs_count=7&theme=github_dark&&custom_title=Most+used+languages"/>
-</div>
-  
+- My name is Harlon, I'm 19 years old.
+- My favorite tech I use is ReactJS.
+- I started learning about coding in August/2021.
+- I'm in the 3° period of Sistemas de Informação at Unifacisa.
 
 <div style="display: inline_block"><br>
   <h2>Technologies and tools</h2>
