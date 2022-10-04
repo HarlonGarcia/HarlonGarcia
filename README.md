@@ -5,6 +5,8 @@
 - I started learning about coding in August/2021.
 - I'm in the 3° period of Sistemas de Informação at Unifacisa.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <h2>Technologies and tools</h2>
   
