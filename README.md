@@ -5,8 +5,6 @@
 - I started learning about coding in August/2021.
 - I'm in the 3° period of Sistemas de Informação at Unifacisa.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <h2>Technologies and tools</h2>
   
@@ -38,7 +36,6 @@
   <h2>Contatos</h2>
  
   <a href="https://www.linkedin.com/in/harlongarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href=""><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
 
