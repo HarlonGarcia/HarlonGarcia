@@ -3,7 +3,7 @@
 - My name is Harlon, I'm 19 years old.
 - My favorite tech I use is ReactJS.
 - I started learning about coding in August/2021.
-- I'm in the 3° period of Sistemas de Informação at Unifacisa.
+- I'm in the 3° period of Information Systems at Unifacisa.
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&theme=github_dark&layout=compact"
