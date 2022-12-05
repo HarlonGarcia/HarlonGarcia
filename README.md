@@ -6,8 +6,9 @@
 - I'm in the 4° period of Information Systems at Unifacisa.
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&theme=github_dark&layout=compact"
- /></div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlonGarcia&layout=compact&theme=github_dark" />
+ <img src="https://github-readme-stats.vercel.app/api?username=HarlonGarcia&hide_title=true&theme=github_dark" />
+</div>
 
 <div style="display: inline_block"><br>
   <h2>Technologies and tools</h2>
