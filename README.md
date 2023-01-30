@@ -1,7 +1,7 @@
 <h1>Welcome to my profile 👾</h1>
 
 - My name is Harlon, I'm 19 years old.
-- My favorite tech I use is ReactJS.
+- My favorite tech is ReactJS.
 - I started learning about coding in August/2021.
 - I'm in the 4° period of Information Systems at Unifacisa.
 
