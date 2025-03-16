@@ -1,10 +1,9 @@
-## Bem vindo(a) ao meu _github ✨_
-Opa, meu nome é **Harlon**, tenho 20 anos e moro em Campina Grande.<br>
-Sou **desenvolvedor** há aproximadamente 3 anos e estou cursando Sistemas de Informação.
+## Bem vindo(a) _✨_
+Meu nome é **Harlon**, tenho 21 anos, moro em Campina Grande na Paraíba, sou **desenvolvedor** há aproximadamente 4 anos e sou Bacharel em Sistemas de Informação (SI).
 
 No momento:
 - 👨‍💻 Trabalhando na Else Consultoria
-- 🐳 Estudando mais sobre DevOps no momento
+- 🐳 Estudando mais sobre DevOps
 - 🍃 Criando e contribuindo em projetos open-source no tempo livre
 
 <div>
