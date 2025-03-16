@@ -1,5 +1,7 @@
 ## Bem vindo(a) _✨_
-Meu nome é **Harlon**, tenho 21 anos, moro em Campina Grande na Paraíba, sou **desenvolvedor** há aproximadamente 4 anos e sou Bacharel em Sistemas de Informação (SI).
+Meu nome é [Harlon Garcia](https://harlon.com.br/) , tenho `21 anos` e moro em `Campina Grande` na Paraíba.
+
+Sou `desenvolvedor` há aproximadamente `5 anos` e sou `Bacharel em Sistemas de Informação (SI)`.
 
 No momento:
 - 👨‍💻 Trabalhando na Else Consultoria
